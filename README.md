@@ -42,3 +42,4 @@ Most importantly, the code I put out here is often a reflection of me building s
 - Reach a point where no project is a limit to me. If I can dream it, I can build it!
 
 Feel free to connect with me!
+[LinkedIn](https://www.linkedin.com/in/aaron-topping-3b0580104/)
