@@ -16,7 +16,7 @@ Most importantly, the code I put out here is often a reflection of me building s
 
 - ❤️ Give me a language and I will figure out how to work in it. I just love to code. I've never found any language to be a barrier.
 
-- 💬 Ask me about anything [here](https://github.com/thegeneticsguy/thegeneticsguy/issues)
+- 💬 Ask me about anything [here](https://github.com/thegeneticsguy/thegeneticsguy/issues). Just create a new issue and add your question!
 
 - **Languages:**
 - [![My Skills](https://skillicons.dev/icons?i=cs,java,py,lua,js,html,css,perl&perline=4)](https://skillicons.dev)
