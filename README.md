@@ -19,10 +19,10 @@ Most importantly, the code I put out here is often a reflection of me building s
 - 💬 Ask me about anything [here](https://github.com/thegeneticsguy/thegeneticsguy/issues)
 
 - **Languages:**
-- [![My Skills](https://skillicons.dev/icons?i=java,cs,js,html,py,lua,perl,css&perline=4)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=cs,java,py,lua,js,html,css,perl&perline=4)](https://skillicons.dev)
 
-- **Tools and DBs:**
-- [![My Skills](https://skillicons.dev/icons?i=git,mysql&perline=3)](https://skillicons.dev)
+- **Frameworks and Tools:**
+- [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,react,vite,git,mysql,sqlite,dotnet&perline=4)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
