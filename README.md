@@ -7,8 +7,6 @@
   <em>Graduated Dec 2025 | 4.0 GPA | 50k+ Active Users on Open Source Projects</em>
 </p>
 
-<br />
-
 ### 👨‍💻 About Me
 
 I am a **Software Developer** with a unique background. After a successful career in sales and finance, I transitioned to engineering full-time. My journey began as a pure hobbyist. I started by building tools for gaming communities that grew to now over **50,000 active users**.
