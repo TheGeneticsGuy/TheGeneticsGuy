@@ -1,45 +1,58 @@
-<p align="center"><a href="https://thegeneticsguy"><img width="80%" alt="Hello, I'm Aaron Topping! Coding as a Hobby and professional" src="/images/banner.png" /></a></p>
+<p align="center"><a href="https://github.com/TheGeneticsGuy"><img width="100%" alt="Aaron Topping - Full Stack Developer" src="/images/banner.png" /></a></p>
+
+<h1 align="center">Hi, I'm Aaron Topping! 👋</h1>
+<h3 align="center">Full-Stack Software Engineer | JavaScript & TypeScript Specialist</h3>
+
+<p align="center">
+  <em>Graduated Dec 2025 | 4.0 GPA | 50k+ Active Users on Open Source Projects</em>
+</p>
 
 <br />
 
-**About me**
+### 👨‍💻 About Me
 
-I was once only a self-taught programmer, as a long time hobbyist "computer anything" kind of guy. That hobby has morphed into something more. I have now become a full-time degree-pursuing software developer with years of experience building programs. I have over 50,000 active users that rely on [my most popular project]([m](https://legacy.curseforge.com/wow/addons/guild-roster-manager)). Despite growing up in the professional sales world for my career, I have been coding as a hobby for at least a decade now. Funny enough, it wasn't until [Nathan Adams (aka Dinnerbone)](https://github.com/Dinnerbone) of Minecraft fame submitted a [pull request](https://github.com/TheGeneticsGuy/Guild-Roster-Manager/pull/33/commits/ddebf91ba7ae216bb0a18cfb6f81c0a789523a67) to one of my own projects that got me thinking to myself,  "Why am I not doing this professionally?" So, I decided to pursue a Bachelor's Degree in the world of software development where I anticipate graduating in 2025. 
+I am a **Software Developer** with a unique background. After a successful career in sales and finance, I transitioned to engineering full-time. My journey began as a pure hobbyist. I started by building tools for gaming communities that grew to now over **50,000 active users**.
 
-I am skilled in Java, C#, Python, SQL, Lua, and more. I even once contributed code in Perl to a comparison genomics project at the University of Arizona. I work well in collaborative environments, and also on my own. One of the great joys I find in programming is learning, growing, and solving the problems. I like bringing both technical expertise and strong communication skills to the table.
+A pivotal moment occurred when **Nathan Adams (Principal Engineer of Mojang Studios/Minecraft)** contributed code to one of my repositories. When we briefly spoke, he was surprised that I didn't work in software field professionally. He kindly suggested that I should consider it. So I did, and since then, I have formalized my skills with a B.S. in Software Development.
 
-Most importantly, the code I put out here is often a reflection of me building something that I wanted for myself first, and then I thought to myself, "I bet others might find this useful too!"
+My primary focus is **Full-Stack Web Development** using various front ends, and backends together, including React, Angular, SQL and NoSQL databases (PostgreSQL/MongoDB). I have built ASP.NET Core projects in C#, Java and Spring Boot, and of course many Single-Page Applications in popular Javascript and Typescript stacks (MongoDB, PostgreSQL, Express, React, Angular, NodeJS, Vite, and so on). Or, just building intelligently without a framework, in raw JS/HTML/CSS. I can learn and build in any framework given to me. There has never been a challenge given to me that I could not quickly adapt to and solve. I am an obsessive always learner.
 
-**Skills**
+---
 
-- 💼 Avid World of Warcraft Addon Dev [Curseforge](https://www.curseforge.com/members/codingasahobby/projects)
+### 🛠 Tech Stack
 
-- ❤️ Give me a language and I will figure out how to work in it. I just love to code. I've never found any language to be a barrier.
+**Core Languages:**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,java,py,lua" alt="Languages" />
 
-- 💬 Ask me about anything [here](https://github.com/thegeneticsguy/thegeneticsguy/issues). Just create a new issue and add your question!
+**Frameworks, Databases & Tools:**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,dotnet,spring,postgres,git,docker,visualstudio" alt="Frameworks" />
 
-- **Languages:**
-- [![My Skills](https://skillicons.dev/icons?i=cs,java,py,lua,js,html,css,perl&perline=4)](https://skillicons.dev)
+---
 
-- **Frameworks and Tools:**
-- [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,react,vite,git,mysql,sqlite,dotnet&perline=4)](https://skillicons.dev)
+### 🚀 Featured Projects
 
-## 📈 GitHub Stats
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[NeuroGridX]([Link-to-Repo](https://github.com/TheGeneticsGuy/NeuroGrid))** | `React` `NodeJS` `MongoDB` `Express` `Socket.IO` `TypeScript` | **Personal Passion Project.** A full-stack web application designed to give Neuralink Brain-Computer-Interface chip implanted patients more activities and fun challenges that also can assess performance drift over time. |
+| **[Guild Roster Manager](https://github.com/TheGeneticsGuy/Guild-Roster-Manager)** | `Lua` `XML` | Open-source mod with roughly **50k+ active users**. The #1 guild management tool in the #1 MMORPG in the world with over. On CurseForge alone there are over [4 million downloads](https://www.curseforge.com/wow/addons/guild-roster-manager)
+| **[Azeroth Reporter](https://github.com/TheGeneticsGuy/warcraft-ai)** | `NodeJS` `Vite` `Google_Gemini` `JavaScript` `serverless`  | Explore World of Warcraft through a new lens. Azeroth AI Reporter combines live realm data with AI-generated summaries to deliver lore-inspired histories for realms and characters. Whether you're checking server status or uncovering your character’s legacy, dive into a uniquely personalized view of your World of Warcraft story. Have fun, see what RolePlay themed story can be told about each of your characters and your favorite realms! See the [Live Site](https://www.azerothreporter.com) for yourself!
+| **[A Student's Mysterious Adventure](https://github.com/TheGeneticsGuy/text-adventure-java-spring-boot)** | `Java` `Spring Boot` `Apache Maven` `SQL` `Spring DataJPA` `Docker` | This project represents an exploration into building a backend-driven web text-adventure application using Java technologies. While this is a fun and simple "game," the primary goal was to develop a robust RESTful API capable of delivering a text-based Role-Playing Game (RPG), all written with Java as the backend. |
 
-<a href="https://github.com/thegeneticsguy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGeneticsGuy&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Aaron's github stats" /></a> | <a href="https://github.com/thegeneticsguy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegeneticsguy&layout=compact&theme=buefy&hide_border=true" /></a>
-| ------------- | ------------- |
+---
 
+### 📈 GitHub Stats
 
-<a href="https://github.com/thegeneticsguy">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheGeneticsGuy&theme=buefy" alt="Aaron's Streak Stats" />
-</a>
+<div align="center">
+<a href="https://github.com/thegeneticsguy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGeneticsGuy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=buefy" alt="Aaron's github stats" /></a>
+<a href="https://github.com/thegeneticsguy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegeneticsguy&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
 
+---
 
-## 🎯 My Goals
+### 📫 Connect with Me
 
-- Transition to professional software development
-- Contribute to meaningful projects and grow my technical expertise
-- Reach a point where no project is a limit to me. If I can dream it, I can build it!
-
-Feel free to connect with me!
-[LinkedIn](https://www.linkedin.com/in/aaron-topping-3b0580104/)
+*   **LinkedIn:** [linkedin.com/in/aaron-topping](https://www.linkedin.com/in/aaron-topping-3b0580104/)
+*   **Email:** aaron@aarontopping.com
+*   **Goal:** Transition to a professional role where I can build scalable applications that make a difference
