@@ -41,10 +41,9 @@ My primary focus is **Full-Stack Web Development** using various front ends, and
 ---
 
 ### 📈 GitHub Stats
-
 <div align="center">
-<a href="https://github.com/thegeneticsguy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGeneticsGuy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=buefy" alt="Aaron's github stats" /></a>
-<a href="https://github.com/thegeneticsguy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegeneticsguy&layout=compact&theme=buefy&hide_border=true" /></a>
+  <img src="./profile/stats.svg" alt="Aaron's github stats" />
+  <img src="./profile/top-langs.svg" alt="Aaron's top languages" />
 </div>
 
 ---
