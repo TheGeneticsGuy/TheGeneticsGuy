@@ -50,6 +50,6 @@ My primary focus is **Full-Stack Web Development** using various front ends, and
 
 ### 📫 Connect with Me
 
-*   **LinkedIn:** [linkedin.com/in/aaron-topping](https://www.linkedin.com/in/aaron-topping-3b0580104/)
+*   **LinkedIn:** [linkedin.com/in/aaron-topping](https://www.linkedin.com/in/aaronjtopping)
 *   **Email:** aaron@aarontopping.com
 *   **Goal:** Transition to a professional role where I can build scalable applications that make a difference.
