@@ -1,6 +1,5 @@
 <p align="center"><a href="https://github.com/TheGeneticsGuy"><img width="100%" alt="Aaron Topping - Full Stack Developer" src="/images/banner.png" /></a></p>
 
-<h1 align="center">Hi, I'm Aaron Topping! 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | JavaScript & TypeScript Specialist</h3>
 
 <p align="center">
