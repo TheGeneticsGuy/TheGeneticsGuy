@@ -1,7 +1,5 @@
 <p align="center"><a href="https://github.com/TheGeneticsGuy"><img width="100%" alt="Aaron Topping - Full Stack Developer" src="/images/banner.png" /></a></p>
-
 <h3 align="center">Full-Stack Software Engineer | JavaScript & TypeScript Specialist</h3>
-
 <p align="center">
   <em>Graduated Dec 2025 | 4.0 GPA | 50k+ Active Users on Open Source Projects</em>
 </p>
